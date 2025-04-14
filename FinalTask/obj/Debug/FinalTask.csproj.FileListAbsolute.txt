@@ -1,0 +1,7 @@
+E:\Шаг КУЦЕНКО\Системное программирование\FinalTask\FinalTask\obj\Debug\FinalTask.csproj.AssemblyReference.cache
+E:\Шаг КУЦЕНКО\Системное программирование\FinalTask\FinalTask\obj\Debug\FinalTask.csproj.CoreCompileInputs.cache
+E:\Шаг КУЦЕНКО\Системное программирование\FinalTask\FinalTask\bin\Debug\FinalTask.exe.config
+E:\Шаг КУЦЕНКО\Системное программирование\FinalTask\FinalTask\bin\Debug\FinalTask.exe
+E:\Шаг КУЦЕНКО\Системное программирование\FinalTask\FinalTask\bin\Debug\FinalTask.pdb
+E:\Шаг КУЦЕНКО\Системное программирование\FinalTask\FinalTask\obj\Debug\FinalTask.exe
+E:\Шаг КУЦЕНКО\Системное программирование\FinalTask\FinalTask\obj\Debug\FinalTask.pdb

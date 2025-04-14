@@ -1,0 +1,11 @@
+﻿using MainInterface;
+namespace MathDivision
+{
+    public class DivisionOperation : MainInterface.IMathOperation
+    {
+        public string OperatorSymbol => "/";
+        public string Description => "Ділення";
+
+        public double Calculate(double a, double b) => a / b;
+    }
+}

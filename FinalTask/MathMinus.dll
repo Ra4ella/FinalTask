@@ -1,0 +1,11 @@
+﻿using MainInterface;
+namespace MathMinus
+{
+    public class MinusOperation : MainInterface.IMathOperation
+    {
+        public string OperatorSymbol => "-";
+        public string Description => "Віднімання";
+
+        public double Calculate(double a, double b) => a - b;
+    }
+}

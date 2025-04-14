@@ -1,0 +1,10 @@
+﻿using MainInterface;
+namespace MathMulty
+{
+    public class MultyOperation : MainInterface.IMathOperation
+    {
+        public string OperatorSymbol => "*";
+        public string Description => "Множення";
+        public double Calculate(double a, double b) => a * b;
+    }
+}

@@ -1,0 +1,11 @@
+﻿using MainInterface;
+namespace MathAdd
+{
+    public class AddOperation : MainInterface.IMathOperation
+    {
+        public string OperatorSymbol => "+";
+        public string Description => "Додавання";
+
+        public double Calculate(double a, double b) => a + b;
+    }
+}

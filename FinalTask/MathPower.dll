@@ -1,0 +1,13 @@
+﻿using MainInterface;
+using System;
+
+namespace MathPower
+{
+    public class PowerOperation : MainInterface.IMathOperation
+    {
+        public string OperatorSymbol => "^";
+        public string Description => "Піднесення до степеня";
+
+        public double Calculate(double a, double b) => Math.Pow(a, b);
+    }
+}
